@@ -48,6 +48,8 @@ header
   inset:0;
   color: white;
   display:flex;
+  flex-direction:column;
+  gap:10px;
   justify-content:center;
   align-items:center;
   font-weight: bold;
@@ -59,6 +61,7 @@ header
 }
 .hero-text button {
   padding: 10px 20px;
+  width:70px;
   border: none;
   background: green;
   color: white;
