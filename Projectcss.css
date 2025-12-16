@@ -87,7 +87,7 @@ p
 .gallery 
 {
   display: flex;
-  max-width: 1200px;
+  max-width: 100%;
   flex-wrap: wrap;
   justify-content: center;
   margin-bottom: 10px;
