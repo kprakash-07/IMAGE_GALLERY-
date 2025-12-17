@@ -44,32 +44,10 @@ header
   max-height:600px;
 
 }
-.hero-text
-{
-  position: absolute;
-  inset:0;
-  color: white;
-  display:flex;
-  flex-direction:column;
-  gap:10px;
-  justify-content:center;
-  align-items:center;
-  font-weight: bold;
-  font-size: 40px;
-  z-index:3;
-}
+
 .hero
 {
   margin-bottom: 10px;
-}
-.hero-text button {
-  padding: 10px 20px;
-  width:150px;
-  border: none;
-  background: green;
-  color: white;
-  cursor: pointer;
-  border-radius: 5px;
 }
 h2
 {
